@@ -14,7 +14,6 @@ Pasaremos por todas las fases:
 3.  **RAG:** "Chat with your Data" (Manuales de empleados, políticas).
 4.  **Orquestación Multi-Agente:** Creando un equipo de agentes autónomos.
 
-Para evitar gastarnos muchos euros, trabajaremos con los Modelos de GitHub [GitHub Models](https://github.com/marketplace/models)
 ---
 
 ## 🛠️ Requisitos Previos (Setup)
@@ -29,4 +28,5 @@ Asegúrate de tener instalado:
 * **[Python 3.10 o superior](https://www.python.org/downloads/):** El lenguaje que usaremos para los scripts.
 * **[Git](https://git-scm.com/downloads):** Para clonar este repositorio.
 * **[Cuenta en GitHub](https://github.com/):** Necesaria para acceder a los modelos y al código.
+
 
